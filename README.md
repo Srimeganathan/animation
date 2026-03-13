@@ -39,8 +39,8 @@ slide.xml – defines translation along the X/Y axis.
 ## PROGRAM:
 ```
 /*
-Developed by: SHARUKESH R
-Registeration Number : 212223220106
+Developed by: Srimeganathan S
+Registeration Number : 212224230273
 */
 ```
 ## Activity_main.xml
